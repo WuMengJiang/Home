@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="showPopupAnimation" parent="android:Animation">
+        <!-- Customize your theme here. -->
+        <item name="android:windowExitAnimation">@anim/alph_item</item>
+        <!-- Customize your theme here. -->
+
+    </style>
+    <style name="showPopupAnimation2" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/alph2_item</item>
+    </style>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/nv1" android:title="通知" android:icon="@mipmap/ic_launcher" ></item>
+<item android:id="@+id/nv2" android:title="广播" android:icon="@mipmap/ic_launcher" ></item>
+<item android:id="@+id/nv3" android:title="POPWINDOW" android:icon="@mipmap/ic_launcher" ></item>
+</menu>
