@@ -6,6 +6,7 @@ import io.reactivex.Observable;
 import retrofit2.http.GET;
 
 public interface MyServer {
+    //你爹
     String recUrl = "http://api.tianapi.com/";
     String upFile = "http://yun918.cn/study/public/file_upload.php";
     String apkUrl = "http://cdn.banmi.com/banmiapp/apk/banmi_330.apk";
